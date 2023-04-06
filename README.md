@@ -5,7 +5,7 @@ The SQL challenge consisted of three parts to analyze a company's old emplopyee 
 ---
 
 #### **Data Modeling**
-The first part was to map out and model the data using an Entity Relationship Diagram. QuickDBD was used to prodce the finished product:
+The first part was to map out and model the data using an Entity Relationship Diagram. QuickDBD was used to produce the finished product:
 
 ![Getting Started](EmployeeSQL/Employee_DBD.png)
 
